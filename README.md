@@ -14,7 +14,7 @@ git clone https://github.com/curiousvlxd/gruvbox-ua-iterm
 ```
 - Go to iTerm > Preferences > Profiles > Colors > Color Presets
 - Expand it, click Import and choose color scheme from the presets folder.
-- Then go to Appearance>General>Theme and choose Minimal
+- Then go to Appearance > General > Theme and choose Minimal
 - Enjoy!
 
 You can also set custom icon:
