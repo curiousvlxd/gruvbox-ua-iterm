@@ -1,5 +1,5 @@
 This repository is an adaptation of [gruvbox theme](https://github.com/morhetz/gruvbox) with Ukrainian palette for [iTerm](https://github.com/gnachman/iTerm2) presets.
-Also here you can find a script which is automates dynamically switching between light and dark presets, gruvbox wallpapers , and title bar icon.
+Also here you can find a script which is automates dynamically switching between light and dark presets, gruvbox wallpapers, and title bar icon.
 ## Light theme
 ![light](https://user-images.githubusercontent.com/79169736/194711213-604367dd-3bd0-4dc5-a4ef-8b9efc1a51ec.png)
 ![light_ide](https://user-images.githubusercontent.com/79169736/194711242-c888aa72-3857-407b-8e46-5c87181d71ff.png)
