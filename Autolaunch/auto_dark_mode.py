@@ -17,8 +17,8 @@ import iterm2
 #    - 'Solarized Dark'
 #    - 'Tango Dark'
 #    - 'Solarized Light'
-THEME_DARK = "uatheme-dark"
-THEME_LIGHT = "uatheme-light"
+THEME_DARK = "gruvbox-ua-dark"
+THEME_LIGHT = "gruvbo-ua-light"
 
 
 async def set_color_preset_on_all_profiles(connection, color_preset):
